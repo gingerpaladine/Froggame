@@ -1,0 +1,8 @@
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.Form1.resources
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.Properties.Resources.resources
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.csproj.GenerateResource.Cache
+G:\frogs2048\frogs2048\bin\Debug\frogs2048.exe
+G:\frogs2048\frogs2048\bin\Debug\frogs2048.pdb
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.exe
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.pdb
+G:\frogs2048\frogs2048\obj\x86\Debug\frogs2048.csprojResolveAssemblyReference.cache
